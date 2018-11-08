@@ -3,8 +3,32 @@ layout: default
 title: Research
 ---
 
+## JOB MARKET PAPER
+
+> #### Abstract
+> Agricultural price supply response is thought to occur mainly through changes in acreage rather
+than through yield increase. Many studies find that yields respond weakly to prices, leading to the
+counter-intuitive idea that yields are insensitive to prices.  In this paper, I argue that this result is
+likely due to the use of aggregated data: county- or state-level yields are averages, whose composi-
+tion itself is affected by price changes. When area expansion is done by cultivating less fertile fields
+or by foregoing rotation, this composition effect reduces average yields, even if yields increase on
+each individual field.
+
+> To disentangle the effect of the intensive and composition effect on county-level yields, I will run
+an analysis at the field level.  Taking advantage of the availability of remotely-sensed crop choice
+and yield data for close to one million fields in the US Midwest, I will be able to analyse response
+effects separately for fields in mono-culture and in rotation, and to obtain estimates of the intensive
+versus rotational effects on yields.  Using this measure, I intend to reconstruct county-level yields,
+and investigate the offsetting effects of intensive and rotational margin on aggregate yields
+
+Link to the working paper: [ageconsearch.umn.edu](https://ageconsearch.umn.edu/record/274343?ln=en)
+
 ## PUBLISHED PAPERS
 
+### 2019
+
+ - Stigler, M. tsDyn: Threshold cointegration: overview and implementation in R, *Handbook of Statistics, Volume 41*, Elsevier
+ 
 ### 2012
 
  - Stigler, M. et al. Book review : Methods to analyse Agricultural Commodity Price Volatility, *European Review of Agricultural Economics*, 39:4, [www](http://erae.oxfordjournals.org/content/39/4/732.extract)
