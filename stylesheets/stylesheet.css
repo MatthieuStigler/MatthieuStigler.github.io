@@ -274,7 +274,7 @@ form {
 
 #main-content h1:before {
   content: "/";
-  color: #C7231C;
+  color: #808080;
   padding-right: 0.3em;
   margin-left: -0.9em;
 }
@@ -288,7 +288,7 @@ form {
 }
 #main-content h2:before {
   content: "//";
-  color: #C7231C;
+  color: #808080;
   padding-right: 0.3em;
   margin-left: -1.5em;
 }
@@ -304,7 +304,7 @@ form {
 
 #main-content h3:before {
   content: "///";
-  color: #C7231C;
+  color: #808080;
   padding-right: 0.3em;
   margin-left: -2em;
 }
@@ -318,7 +318,7 @@ form {
 
 h4:before {
   content: "////";
-  color: #C7231C;
+  color: #808080;
   padding-right: 0.3em;
   margin-left: -2.8em;
 }
