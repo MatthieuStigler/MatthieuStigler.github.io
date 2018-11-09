@@ -13,6 +13,7 @@ likely due to the use of aggregated data: county- or state-level yields are aver
 is affected by price changes. When area expansion is done by cultivating less fertile fields
 or by foregoing rotation, this composition effect reduces average yields, even if yields increase on
 each individual field.
+>
 > To disentangle the effect of the intensive and composition effect on county-level yields, I will run
 an analysis at the field level.  Taking advantage of the availability of remotely-sensed crop choice
 and yield data for close to one million fields in the US Midwest, I will be able to analyse response
