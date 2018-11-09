@@ -90,7 +90,7 @@ header h1 {
 
 header h2 {
   font-size: 26px;
-  color: #F0F0F0;
+  color: #C7231C;
   font-weight: normal;
   line-height: 1.3;
   width: 540px;
@@ -173,7 +173,7 @@ a.button2 {
   color: #fff;
   padding-left: 128px;
   padding-top: 22px;
-  font-family: 'Open Sans', 'Helvetica Neue', Helvetica, Arial, serif; 
+  font-family: 'Open Sans', 'Helvetica Neue', Helvetica, Arial, serif;
 }
 a.button2 small {
   display: block;
