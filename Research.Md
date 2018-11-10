@@ -45,9 +45,22 @@ Link to the working paper: [ageconsearch.umn.edu](https://ageconsearch.umn.edu/r
 
 ## Conferences, Workshops, presentations
 
+### 2018
+
+- *Supply response at the field level: Disentangling area and yield effects*, 2018 [AAEA Annual Meeting](https://www.aaea.org/meetings/2018-aaea-annual-meeting), 
+- *Using remote-sensing data: pixels or objects* MapInTime, UC Davis, [pdf](https://github.com/MicheleTobias/MaptimeDavis/blob/master/OpenMicSession_Winter2018/matthieu_Stigler%20-%20Matthieu%20Stigler.pdf)
+
+### 2017
+
+- *Supply response at the field level: Disentangling area and yield effects*, GARESC conference
+
+### 2014
+ - Workshop on *Regression discontinuity design*, [pdf](http://matthieustigler.github.io/Lectures/Lect_RDD_Theo.pdf), NIPFP, New Delhi, India
+ - Workshop on *Regression discontinuity design*, [pdf](http://matthieustigler.github.io/Lectures/Lect_RDD_Theo.pdf), IGIDR, New Bombay, India
+ 
 ### 2013
  - Discussant of paper "Does Teacher Certification Program Lead to Better Quality", EUDN Workshop, Geneva, [pdf](http://MatthieuStigler.github.io/Lectures/Discu_EUDN_Pritta.pdf)
- - La Sous-Alimentation un concept évident, mais si difficile à définir, Lausanne University Midi Campus, [pdf] (http://MatthieuStigler.github.io/Lectures/Pres_UNIL_sousalim.pdf)
+ - La Sous-Alimentation un concept évident, mais si difficile à définir, Lausanne University Midi Campus, [pdf](http://MatthieuStigler.github.io/Lectures/Pres_UNIL_sousalim.pdf)
 
 ### 2011
  - Invited keynote speaker to Agri-Business event, Theoretical and empirical properties of commodity prices, EAAE 2011 Congress, Zurich, [www](https://dl.dropbox.com/u/6113358/CV/EAAE_Infoflyer_August.pdf)
