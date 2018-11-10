@@ -272,12 +272,14 @@ form {
   color: #474747;
 }
 
-#main-content h1:before {
+/*#main-content h1:before {
+looks weird on main page...
   content: "/";
   color: #808080;
   padding-right: 0.3em;
   margin-left: -0.9em;
 }
+*/
 
 #main-content h2 {
   font-family: 'Open Sans', 'Helvetica Neue', Helvetica, Arial, serif;
