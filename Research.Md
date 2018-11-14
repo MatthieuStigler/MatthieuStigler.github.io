@@ -5,6 +5,8 @@ title: Research
 
 ## JOB MARKET PAPER
 
+Supply response at the field-level: disentangling area and yield effects
+
 > ### Abstract
 > Agricultural price supply response is thought to occur mainly through changes in acreage rather
 than through yield increase. Many studies find that yields respond weakly to prices, leading to the
