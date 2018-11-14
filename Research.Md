@@ -32,7 +32,7 @@ Link to the working paper: [ageconsearch.umn.edu](https://ageconsearch.umn.edu/r
 ### 2012
 
  - Stigler, M. et al. Book review : Methods to analyse Agricultural Commodity Price Volatility, *European Review of Agricultural Economics*, 39:4, [www](http://erae.oxfordjournals.org/content/39/4/732.extract)
- - Steffen, ..., Stigler, M., ..., Contract Management after milk quotas, in Yearbook of Socioeconomics in Agriculture, SSA, [pdf](http://www.sga-sse.ch/dms/agrarwirtschaft/Internetseite/Yearbook/Ausgaben/Yearbook-2012/YSA2012-Abstracts/YSA2012_Steffen.pdf)
+ - Steffen, ..., Stigler, M., ..., Contract Management after milk quotas, in Yearbook of Socioeconomics in Agriculture, SSA, [pdf](https://ideas.repec.org/a/cha/ysa001/v5y2012i1p177-200.html)
 
 ### 2011
  - Stigler, M. Commodity Price properties, in Safeguarding Food Security in Volatile Global Markets, FAO, [pdf](http://www.fao.org/docrep/013/i2107e/i2107e02.pdf)
