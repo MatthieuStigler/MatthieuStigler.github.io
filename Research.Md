@@ -23,7 +23,7 @@ effects separately for fields in mono-culture and in rotation, and to obtain est
 versus rotational effects on yields.  Using this measure, I intend to reconstruct county-level yields,
 and investigate the offsetting effects of intensive and rotational margin on aggregate yields
 
-Link to the working paper: [ageconsearch.umn.edu](https://ageconsearch.umn.edu/record/274343?ln=en)
+Link to the [working paper](https://github.com/MatthieuStigler/MatthieuStigler.github.io/raw/master/docs/yield_response_satellite_Stigler.pdf)
 
 ## PUBLISHED PAPERS
 
@@ -34,7 +34,7 @@ Link to the working paper: [ageconsearch.umn.edu](https://ageconsearch.umn.edu/r
 ### 2012
 
  - Stigler, M. et al. Book review : Methods to analyse Agricultural Commodity Price Volatility, *European Review of Agricultural Economics*, 39:4, [www](http://erae.oxfordjournals.org/content/39/4/732.extract)
- - Steffen, ..., Stigler, M., ..., Contract Management after milk quotas, in Yearbook of Socioeconomics in Agriculture, SSA, [pdf](https://ideas.repec.org/a/cha/ysa001/v5y2012i1p177-200.html)
+ - Steffen, Stigler, M., Contract Management after milk quotas, in Yearbook of Socioeconomics in Agriculture, SSA, [pdf](https://ideas.repec.org/a/cha/ysa001/v5y2012i1p177-200.html)
 
 ### 2011
  - Stigler, M. Commodity Price properties, in Safeguarding Food Security in Volatile Global Markets, FAO, [pdf](http://www.fao.org/docrep/013/i2107e/i2107e02.pdf)
