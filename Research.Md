@@ -31,7 +31,7 @@ Link to the [working paper](https://github.com/MatthieuStigler/MatthieuStigler.g
 ### 2019
 
  - Stigler, M. tsDyn: Threshold cointegration: overview and implementation in R, *Handbook of Statistics, Volume 41*, Elsevier
- 
+[www](https://www.sciencedirect.com/science/article/pii/S0169716119300355?via%3Dihub) 
 ### 2012
 
  - Stigler, M. et al. Book review : Methods to analyse Agricultural Commodity Price Volatility, *European Review of Agricultural Economics*, 39:4, [www](http://erae.oxfordjournals.org/content/39/4/732.extract)
