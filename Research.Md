@@ -8,23 +8,11 @@ title: Research
 Supply response at the field-level: disentangling area and yield effects
 
 > ### Abstract
->Agricultural price supply response is thought to occur mainly through changes in acreage rather
-than through yield increase. Many studies find that yields respond weakly to prices, leading to the
-counter-intuitive idea that yields are insensitive to prices. In this paper, I argue that this result is
-likely due to the use of aggregated data: county- or state-level yields are averages, whose composition itself is affected by price changes. When area expansion is done by cultivating less fertile fields
-or by foregoing rotation, this composition effect reduces average yields, even if yields increase on
-each individual field.
+>Abstract Agricultural price supply response is thought to occur mainly through changes in acreage rather than through yield increase. Many studies find that yields respond weakly to prices, leading to the counter-intuitive idea that yields are insensitive to prices. In this paper, I argue that this result is likely due to the use of aggregated data: county- or state-level yields are averages, whose composition itself is affected by price changes. When area expansion is done by cultivating less fertile fields or by foregoing rotation, this composition effect reduces average yields, even if yields increase on each individual field.
 >
->To disentangle the effect of the intensive and composition effect on county-level yields, I run an
-analysis at the field level, constructing a dataset of remotely-sensed crop choice and yield data for
-corn and soybeans for close to half million fields in the US Midwest. Results indicate that the field-
-level yield elasticity to prices is high for corn, at 40%. When the same elasticity is estimated on a
-pseudo county-level panel, estimates drop at 30%. Taking advantage of the presence of a subsample
-of fields that are always rotating, I show that the difference in estimates can be fully attributed to
-the composition effect. This confirms the hypothesis that estimates based on aggregate data under-
-estimate the relationships at the field-level level.
+>Abstract To disentangle the effect of the intensive and composition effect on county-level yields, I run an analysis at the field level, constructing a dataset of satellite-predicted crop choice and yield data for corn and soybeans for close to two million fields in the US Midwest. Results indicate that the field-level yield elasticity to prices is higher than reported elsewhere, ranging from 20% to 30%. When the same analysis is done using pseudo county-level panel, results change drastically for corn, becoming even negative. These results shed light on the complex dependency between area and yield response, supporting the hypothesis that area expansion is made by mainly bringing fields with lower yields. 
 
-Link to the [working paper](https://github.com/MatthieuStigler/MatthieuStigler.github.io/raw/master/docs/yield_response_satellite_Stigler.pdf)
+Link to the [working paper](https://matthieustigler.github.io/docs/yield_response_satellite_Stigler.pdf)
 
 ## PUBLISHED PAPERS
 
