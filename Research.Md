@@ -14,6 +14,15 @@ Supply response at the field-level: disentangling area and yield effects
 
 Link to the [working paper](https://matthieustigler.github.io/docs/yield_response_satellite_Stigler.pdf)
 
+## ONGOING WORK
+
+ - Measuring rotation effects in the US Corn Belt: a multiple diff-diff approach
+[working paper](https://matthieustigler.github.io/docs/rotation_effects_Stigler_standalone.pdf)
+ - Stylized facts on the US Corn Belt: a satellite tour [working paper](https://matthieustigler.github.io/docs/Chapter1_Stylised_facts_standalone.pdf)
+ - Yield response to climate: new insights from functional data analysis
+ - Within field variability and nitrogen leaching: is there a win-win conservation policy?
+ - Evaluating the benefits of index-insurance: the US experience
+
 ## PUBLISHED PAPERS
 
 ### 2019
