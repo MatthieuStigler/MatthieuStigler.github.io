@@ -14,6 +14,14 @@ Supply response at the field-level: disentangling area and yield effects
 
 Link to the [working paper](https://matthieustigler.github.io/docs/yield_response_satellite_Stigler.pdf)
 
+## Working papers
+
+- *Suitability of index insurance: new insights from satellite data. With David Lobell*. [working paper](https://github.com/MatthieuStigler/MatthieuStigler.github.io/blob/master/docs/cropIns_paper_latest.pdf)
+- *Global Yield Distributions since 1960*. With Nathan Hendricks. 
+- *Social Distancing Responses to COVID-19 Emergency Declarations Strongly Differentiated by Income*. With J. Weill, O Deschenes and M. Springborn. Revise and resubmit.
+
+
+
 ## ONGOING WORK
 
  - Measuring rotation effects in the US Corn Belt: a multiple diff-diff approach
@@ -21,7 +29,9 @@ Link to the [working paper](https://matthieustigler.github.io/docs/yield_respons
  - Stylized facts on the US Corn Belt: a satellite tour [working paper](https://matthieustigler.github.io/docs/Chapter1_Stylised_facts_standalone.pdf)
  - Yield response to climate: new insights from functional data analysis
  - Within field variability and nitrogen leaching: is there a win-win conservation policy?
- - Evaluating the benefits of index-insurance: the US experience
+
+
+
 
 ## PUBLISHED PAPERS
 
