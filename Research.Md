@@ -43,6 +43,7 @@ Link to the [working paper](https://matthieustigler.github.io/docs/yield_respons
 
  - Stigler, M. tsDyn: Threshold cointegration: overview and implementation in R, *Handbook of Statistics, Volume 41*, Elsevier
 [www](https://www.sciencedirect.com/science/article/pii/S0169716119300355?via%3Dihub) 
+
 ### 2012
 
  - Stigler, M. et al. Book review : Methods to analyse Agricultural Commodity Price Volatility, *European Review of Agricultural Economics*, 39:4, [www](http://erae.oxfordjournals.org/content/39/4/732.extract)
@@ -62,7 +63,7 @@ Link to the [working paper](https://matthieustigler.github.io/docs/yield_respons
 ### 2018
 
 - *Supply response at the field level: Disentangling area and yield effects*, 2018 [AAEA Annual Meeting](https://www.aaea.org/meetings/2018-aaea-annual-meeting), 
-- *Using remote-sensing data: pixels or objects* MapInTime, UC Davis, [pdf](https://github.com/MicheleTobias/MaptimeDavis/blob/master/OpenMicSession_Winter2018/matthieu_Stigler%20-%20Matthieu%20Stigler.pdf)
+- *Using remote-sensing data: pixels or objects?* MapInTime, UC Davis, [pdf](https://raw.githubusercontent.com/maptimedavis/MaptimeDavis/master/OpenMicSession_Winter2018/matthieu_Stigler%20-%20Matthieu%20Stigler.pdf)
 
 ### 2017
 
