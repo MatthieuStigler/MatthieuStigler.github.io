@@ -17,8 +17,8 @@ Link to the [working paper](https://matthieustigler.github.io/docs/yield_respons
 ## Working papers
 
 - *Suitability of index insurance: new insights from satellite data. With David Lobell*. [working paper](https://github.com/MatthieuStigler/MatthieuStigler.github.io/raw/master/docs/cropIns_paper_latest.pdf)
-- *Global Yield Distributions since 1960*. With Nathan Hendricks. 
-- *Social Distancing Responses to COVID-19 Emergency Declarations Strongly Differentiated by Income*. With J. Weill, O Deschenes and M. Springborn. Revise and resubmit.
+- *Global Yield Distributions since 1960*. With Nathan Hendricks. [working paper](https://ageconsearch.umn.edu/record/304570/files/19153.pdf)
+
 
 
 
@@ -34,6 +34,10 @@ Link to the [working paper](https://matthieustigler.github.io/docs/yield_respons
 
 
 ## PUBLISHED PAPERS
+
+### 2020
+
+- *Social Distancing Responses to COVID-19 Emergency Declarations Strongly Differentiated by Income*. With J. Weill, O Deschenes and M. Springborn. Proceedings of the National Academy of Sciences Jul 2020, 202009412; https://doi.org/10.1073/pnas.2009412117
 
 ### 2019
 
