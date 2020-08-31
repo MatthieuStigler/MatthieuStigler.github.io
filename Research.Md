@@ -5,7 +5,7 @@ title: Research
 
 ## Working papers
 
-- *Supply response at the field-level: disentangling area and yield effects* [working paper](https://matthieustigler.github.io/docs/yield_response_satellite_Stigler.pdf)
+- *Supply response at the field-level: disentangling area and yield effects.* [working paper](https://matthieustigler.github.io/docs/yield_response_satellite_Stigler.pdf)
 - *Suitability of index insurance: new insights from satellite data. With David Lobell*. [working paper](https://github.com/MatthieuStigler/MatthieuStigler.github.io/raw/master/docs/cropIns_paper_latest.pdf)
 - *Global Yield Distributions since 1960*. With Nathan Hendricks. [working paper](https://ageconsearch.umn.edu/record/304570/files/19153.pdf)
 
@@ -14,10 +14,10 @@ title: Research
 
 ## ONGOING WORK
 
- - Measuring rotation effects in the US Corn Belt: a multiple diff-diff approach
+ - Measuring rotation effects in the US Corn Belt: a multiple diff-diff approach.
 [working paper](https://matthieustigler.github.io/docs/rotation_effects_Stigler_standalone.pdf)
- - Stylized facts on the US Corn Belt: a satellite tour [working paper](https://matthieustigler.github.io/docs/Chapter1_Stylised_facts_standalone.pdf)
- - Yield response to climate: new insights from functional data analysis
+ - Stylized facts on the US Corn Belt: a satellite tour. [working paper](https://matthieustigler.github.io/docs/Chapter1_Stylised_facts_standalone.pdf)
+ - Yield response to climate: new insights from functional data analysis.
  - Within field variability and nitrogen leaching: is there a win-win conservation policy?
 
 
