@@ -3,7 +3,7 @@ layout: default
 title: Research
 ---
 
-## Working papers
+## CURRENT WORKING PAPERS
 
 - *Supply response at the field-level: disentangling area and yield effects.* [working paper](https://matthieustigler.github.io/docs/yield_response_satellite_Stigler.pdf)
 - *Suitability of index insurance: new insights from satellite data. With David Lobell*. [working paper](https://github.com/MatthieuStigler/MatthieuStigler.github.io/raw/master/docs/cropIns_paper_latest.pdf)
