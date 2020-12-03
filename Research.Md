@@ -29,10 +29,7 @@ Google  Scholar: [link](https://scholar.google.com/citations?user=AiA41oQAAAAJ&h
 ### 2020
 
 - *Social Distancing Responses to COVID-19 Emergency Declarations Strongly Differentiated by Income*. With J. Weill, O Deschenes and M. Springborn. Proceedings of the National Academy of Sciences Jul 2020, 202009412; [www](https://doi.org/10.1073/pnas.2009412117). Media coverage: [Wired](https://www.wired.com/story/your-income-predicts-how-well-you-can-socially-distance/), [New York Post](https://nypost.com/2020/07/31/social-distancing-substantially-varies-by-income-study-finds/), [Los Angeles Times](https://www.latimes.com/california/story/2020-08-23/another-coronavirus-inequity-those-who-can-afford-to-stay-in-place-and-those-who-must-move)
-
-### 2019
-
- - Stigler, M. tsDyn: Threshold cointegration: overview and implementation in R, *Handbook of Statistics, Volume 41*, Elsevier
+ - Stigler, M. tsDyn: Threshold cointegration: overview and implementation in R, *Handbook of Statistics, Volume 42*, p. 229-264, Elsevier
 [www](https://www.sciencedirect.com/science/article/pii/S0169716119300355?via%3Dihub) 
 
 ### 2012
