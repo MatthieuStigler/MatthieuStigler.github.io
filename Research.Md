@@ -8,6 +8,8 @@ Google  Scholar: [link](https://scholar.google.com/citations?user=AiA41oQAAAAJ&h
 
 - *On the benefits of index insurance in US agriculture: a large-scale analysis using satellite data. With David Lobell*. [working paper](https://github.com/MatthieuStigler/MatthieuStigler.github.io/raw/master/docs/cropIns_paper_latest.pdf)
 - *Supply response at the field-level: disentangling area and yield effects.* [working paper](https://matthieustigler.github.io/docs/yield_response_satellite_Stigler.pdf)
+- *Exposures and Behavioral Responses to Wildfire Smoke.* With Marshall Burke. [NBER working paper](https://www.nber.org/papers/w29380)
+- *Using Satellite Imagery and Machine Learning to Estimate the Livelihood Impact of Electricity Access.* With Nathan Ratledge. [NBER working paper](https://www.nber.org/papers/w29237)
 - *Global Yield Distributions since 1960*. With Nathan Hendricks. [working paper](https://ageconsearch.umn.edu/record/304570/files/19153.pdf)
 
 
