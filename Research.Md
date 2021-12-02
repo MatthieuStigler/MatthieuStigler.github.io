@@ -6,7 +6,8 @@ Google  Scholar: [link](https://scholar.google.com/citations?user=AiA41oQAAAAJ&h
 
 ## CURRENT WORKING PAPERS
 
-- *On the benefits of index insurance in US agriculture: a large-scale analysis using satellite data. With David Lobell*. [working paper](https://github.com/MatthieuStigler/MatthieuStigler.github.io/raw/master/docs/cropIns_paper_latest.pdf)
+- *On the benefits of index insurance in US agriculture: a large-scale analysis using satellite data. With David Lobell*. [working paper](https://arxiv.org/abs/2011.12544)
+- *Optimal index insurance and basis risk decomposition: an application to Kenya*. [working paper](https://arxiv.org/abs/2111.08601)
 - *Supply response at the field-level: disentangling area and yield effects.* [working paper](https://matthieustigler.github.io/docs/yield_response_satellite_Stigler.pdf)
 - *Exposures and Behavioral Responses to Wildfire Smoke.* With Marshall Burke. [NBER working paper](https://www.nber.org/papers/w29380)
 - *Using Satellite Imagery and Machine Learning to Estimate the Livelihood Impact of Electricity Access.* With Nathan Ratledge. [NBER working paper](https://www.nber.org/papers/w29237)
