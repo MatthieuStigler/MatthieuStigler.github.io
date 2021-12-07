@@ -6,25 +6,13 @@ Google  Scholar: [link](https://scholar.google.com/citations?user=AiA41oQAAAAJ&h
 
 ## CURRENT WORKING PAPERS
 
-- *On the benefits of index insurance in US agriculture: a large-scale analysis using satellite data. With David Lobell*. [working paper](https://arxiv.org/abs/2011.12544)
-- *Optimal index insurance and basis risk decomposition: an application to Kenya*. [working paper](https://arxiv.org/abs/2111.08601)
-- *Supply response at the field-level: disentangling area and yield effects.* [working paper](https://matthieustigler.github.io/docs/yield_response_satellite_Stigler.pdf)
 - *Exposures and Behavioral Responses to Wildfire Smoke.* With Marshall Burke. [NBER working paper](https://www.nber.org/papers/w29380)
 - *Using Satellite Imagery and Machine Learning to Estimate the Livelihood Impact of Electricity Access.* With Nathan Ratledge. [NBER working paper](https://www.nber.org/papers/w29237)
+- *Researchers' Degrees-of-Flexibility and the Credibility of Difference-in-Differences Estimates: Evidence From the Pandemic Policy Evaluations.* With Joakim Weil. [NBER working paper](https://www.nber.org/papers/w29550)
+- *Optimal index insurance and basis risk decomposition: an application to Kenya*. With David Lobell. [arXiv working paper](https://arxiv.org/abs/2111.08601)
+- *On the benefits of index insurance in US agriculture: a large-scale analysis using satellite data*. With David Lobell. [arXiv working paper](https://arxiv.org/abs/2011.12544)
+- *Supply response at the field-level: disentangling area and yield effects.* [working paper](https://matthieustigler.github.io/docs/yield_response_satellite_Stigler.pdf)
 - *Global Yield Distributions since 1960*. With Nathan Hendricks. [working paper](https://ageconsearch.umn.edu/record/304570/files/19153.pdf)
-
-
-
-
-## ONGOING WORK
-
- - Measuring rotation effects in the US Corn Belt: a multiple diff-diff approach.
-[working paper](https://matthieustigler.github.io/docs/rotation_effects_Stigler_standalone.pdf)
- - Stylized facts on the US Corn Belt: a satellite tour. [working paper](https://matthieustigler.github.io/docs/Chapter1_Stylised_facts_standalone.pdf)
- - Yield response to climate: new insights from functional data analysis.
- - Within field variability and nitrogen leaching: is there a win-win conservation policy?
-
-
 
 
 ## PUBLISHED PAPERS
@@ -50,5 +38,12 @@ Google  Scholar: [link](https://scholar.google.com/citations?user=AiA41oQAAAAJ&h
  - Gairing, M., Mann, S., and Stigler, M. The end of Milk Quotas: Developments on the Swiss Milk Market, ART report series, no 732, [www](http://www.agroscope.admin.ch/publikationen/einzelpublikation/index.html?lang=de&aid=22407&pid=23029&vmode=fancy)
 
 
+## ONGOING WORK
+
+ - Measuring rotation effects in the US Corn Belt: a multiple diff-diff approach.
+[working paper](https://matthieustigler.github.io/docs/rotation_effects_Stigler_standalone.pdf)
+ - Stylized facts on the US Corn Belt: a satellite tour. [working paper](https://matthieustigler.github.io/docs/Chapter1_Stylised_facts_standalone.pdf)
+ - Yield response to climate: new insights from functional data analysis.
+ - Within field variability and nitrogen leaching: is there a win-win conservation policy?
 
 
