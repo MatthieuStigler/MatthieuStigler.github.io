@@ -2,7 +2,7 @@
 layout: default
 title: Research
 ---
-Google  Scholar: [link](https://scholar.google.com/citations?user=AiA41oQAAAAJ&hl=en). ORCID: [0000-0002-6802-429](http://orcid.org/0000-0002-6802-4290)
+Google  Scholar: [link](https://scholar.google.com/citations?user=AiA41oQAAAAJ&hl=en). ORCID: [0000-0002-6802-4290](http://orcid.org/0000-0002-6802-4290)
 
 ## CURRENT WORKING PAPERS
 
