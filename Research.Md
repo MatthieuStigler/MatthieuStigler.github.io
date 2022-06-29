@@ -6,7 +6,6 @@ Google  Scholar: [link](https://scholar.google.com/citations?user=AiA41oQAAAAJ&h
 
 ## CURRENT WORKING PAPERS
 
-- *Exposures and Behavioral Responses to Wildfire Smoke.* With Marshall Burke. [NBER working paper](https://www.nber.org/papers/w29380)
 - *Using Satellite Imagery and Machine Learning to Estimate the Livelihood Impact of Electricity Access.* With Nathan Ratledge. [NBER working paper](https://www.nber.org/papers/w29237)
 - *Researchers' Degrees-of-Flexibility and the Credibility of Difference-in-Differences Estimates: Evidence From the Pandemic Policy Evaluations.* With Joakim Weil. [NBER working paper](https://www.nber.org/papers/w29550)
 - *Optimal index insurance and basis risk decomposition: an application to Kenya*. With David Lobell. [arXiv working paper](https://arxiv.org/abs/2111.08601)
@@ -17,6 +16,10 @@ Google  Scholar: [link](https://scholar.google.com/citations?user=AiA41oQAAAAJ&h
 
 
 ## PUBLISHED PAPERS
+
+### 2022
+
+- *Exposures and Behavioral Responses to Wildfire Smoke*. With Marshall Burke et al. Forthcoming in Nature Human Behaviour
 
 ### 2020
 
