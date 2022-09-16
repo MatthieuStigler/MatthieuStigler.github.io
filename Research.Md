@@ -6,9 +6,7 @@ Google  Scholar: [link](https://scholar.google.com/citations?user=AiA41oQAAAAJ&h
 
 ## CURRENT WORKING PAPERS
 
-- *Using Satellite Imagery and Machine Learning to Estimate the Livelihood Impact of Electricity Access.* With Nathan Ratledge. [NBER working paper](https://www.nber.org/papers/w29237)
 - *Researchers' Degrees-of-Flexibility and the Credibility of Difference-in-Differences Estimates: Evidence From the Pandemic Policy Evaluations.* With Joakim Weil. [NBER working paper](https://www.nber.org/papers/w29550)
-- *Optimal index insurance and basis risk decomposition: an application to Kenya*. With David Lobell. [arXiv working paper](https://arxiv.org/abs/2111.08601)
 - *On the benefits of index insurance in US agriculture: a large-scale analysis using satellite data*. With David Lobell. [arXiv working paper](https://arxiv.org/abs/2011.12544)
 - *With big data come big problems: pitfalls in measuring basis risk for crop index insurance*. With David Lobell, Apratim Dey and Andrew Hobbs. [working paper](https://raw.githubusercontent.com/MatthieuStigler/MatthieuStigler.github.io/master/docs/bias_basis_risk_overleaf.pdf)
 - *Supply response at the field-level: disentangling area and yield effects.* [working paper](https://matthieustigler.github.io/docs/yield_response_satellite_Stigler.pdf)
@@ -20,6 +18,9 @@ Google  Scholar: [link](https://scholar.google.com/citations?user=AiA41oQAAAAJ&h
 ### 2022
 
 - *Exposures and Behavioral Responses to Wildfire Smoke*. With Marshall Burke et al. Nature Human Behaviour [www](https://www.nature.com/articles/s41562-022-01396-6)
+- *The effects of agricultural policy on supply and productivity: Evidence from differential changes in distortions*. With N. Hendricks, A. Smith, Nelson and B. Villoria. Agricultural economics [www]( https://doi.org/10.1111/agec.12741)
+- *Using Satellite Imagery and Machine Learning to Estimate the Livelihood Impact of Electricity Access.* With Nathan Ratledge et al. Conditionally accepted at Nature [NBER working paper](https://www.nber.org/papers/w29237)
+- *Optimal index insurance and basis risk decomposition: an application to Kenya*. With David Lobell. Conditionally accepted at American Journal of Agricultural Economics; [arXiv working paper](https://arxiv.org/abs/2111.08601)
 
 ### 2020
 
