@@ -6,7 +6,18 @@ Google  Scholar: [link](https://scholar.google.com/citations?user=AiA41oQAAAAJ&h
 
 ## CURRENT WORKING PAPERS
 
+
+##### Environmental economics: Deforestation, sustainable governance
+
+- *Are supply-chain deforestation initiatives effective? The effects of zero-deforestation commitments in Indonesia’s palm oil sector*. With Rachael Garrett, Robert Heilmayr, Kim Carlson, Jason Benedict, Janina Grabs and  David Gaveau.
+- *Mechanisms of reduced supply chain policy effectiveness and leakage in the Brazilian cattle sector.*  With Samuel Levy, Erasmus zu Ermgassen, Vivian Ribeiro, and Rachael D. Garrett. 
+- *Smallholder zero-deforestation agreements reduce forest loss on the Colombian Amazon frontier.*  With Paul Furumo and Eric Lambin.
+
+##### Replicability of science
+
 - *Researchers' Degrees-of-Flexibility and the Credibility of Difference-in-Differences Estimates: Evidence From the Pandemic Policy Evaluations.* With Joakim Weil. [NBER working paper](https://www.nber.org/papers/w29550)
+
+##### Agricultural Economics: crop insurance, supply response
 - *On the benefits of index insurance in US agriculture: a large-scale analysis using satellite data*. With David Lobell. [arXiv working paper](https://arxiv.org/abs/2011.12544)
 - *With big data come big problems: pitfalls in measuring basis risk for crop index insurance*. With David Lobell, Apratim Dey and Andrew Hobbs. [arXiv working paper](https://arxiv.org/abs/2209.14611)
 - *Supply response at the field-level: disentangling area and yield effects.* [working paper](https://matthieustigler.github.io/docs/yield_response_satellite_Stigler.pdf)
