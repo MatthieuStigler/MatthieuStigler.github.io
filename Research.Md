@@ -30,8 +30,8 @@ Google  Scholar: [link](https://scholar.google.com/citations?user=AiA41oQAAAAJ&h
 
 - *Using Satellite Imagery and Machine Learning to Estimate the Livelihood Impact of Electricity Access.* With Nathan Ratledge et al., Nature, Vol. 611:7936, p. 491-495 [www](https://doi.org/10.1038/s41586-022-05322-8)
 - *Exposures and Behavioral Responses to Wildfire Smoke*. With Marshall Burke et al. Nature Human Behaviour, Vol . 6, p. 1351–1361 [www](https://www.nature.com/articles/s41562-022-01396-6)
-- *Optimal index insurance and basis risk decomposition: an application to Kenya*. With David Lobell. Conditionally accepted at American Journal of Agricultural Economics; [arXiv working paper](https://arxiv.org/abs/2111.08601)
-- *The effects of agricultural policy on supply and productivity: Evidence from differential changes in distortions*. With N. Hendricks, A. Smith, Nelson and B. Villoria. Agricultural economics [www]( https://doi.org/10.1111/agec.12741)
+- *Optimal index insurance and basis risk decomposition: an application to Kenya*. With David Lobell. Forthcoming in American Journal of Agricultural Economics; [arXiv working paper](https://arxiv.org/abs/2111.08601)
+- *The effects of agricultural policy on supply and productivity: Evidence from differential changes in distortions*. With N. Hendricks, A. Smith, Nelson and B. Villoria. Agricultural economics, 54: 44–61 [www](https://doi.org/10.1111/agec.12741)
 
 
 ### 2020
