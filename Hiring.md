@@ -29,5 +29,5 @@ All other information about the PhD program in economics at GSEM can be found he
 
 
 Interested candidates should send a cover letter explaining their interest and skills, together with a CV, 
-to Matthieu.Stigler+phd@gmail.com by Sunday 11 February. 
+to Matthieu.Stigler+phd@gmail.com by Sunday 19 February. 
 
