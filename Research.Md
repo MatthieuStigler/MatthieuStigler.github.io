@@ -26,6 +26,10 @@ Google  Scholar: [link](https://scholar.google.com/citations?user=AiA41oQAAAAJ&h
 
 ## PUBLISHED PAPERS
 
+### 2024
+
+- *How well does the implementation of corporate zero-deforestation commitments in Indonesia align with aims to halt deforestation and include smallholders?* With Adelina Chandra et al. Environmental Research Letters, 19:4 [www](https://doi.org/10.1088/1748-9326/ad33d1)
+
 ### 2023
 
 - *Optimal index insurance and basis risk decomposition: an application to Kenya*. With David Lobell. American Journal of Agricultural Economics [www](https://onlinelibrary.wiley.com/doi/10.1111/ajae.12375)
