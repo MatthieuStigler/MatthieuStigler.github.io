@@ -13,10 +13,6 @@ Google  Scholar: [link](https://scholar.google.com/citations?user=AiA41oQAAAAJ&h
 - *Mechanisms of reduced supply chain policy effectiveness and leakage in the Brazilian cattle sector.*  With Samuel Levy, Erasmus zu Ermgassen, Vivian Ribeiro, and Rachael D. Garrett. 
 - *Smallholder zero-deforestation agreements reduce forest loss on the Colombian Amazon frontier.*  With Paul Furumo and Eric Lambin.
 
-##### Replicability of science
-
-- *Researchers' Degrees-of-Flexibility and the Credibility of Difference-in-Differences Estimates: Evidence From the Pandemic Policy Evaluations.* With Joakim Weil. [NBER working paper](https://www.nber.org/papers/w29550)
-
 ##### Agricultural Economics: crop insurance, supply response
 - *On the benefits of index insurance in US agriculture: a large-scale analysis using satellite data*. With David Lobell. [arXiv working paper](https://arxiv.org/abs/2011.12544)
 - *With big data come big problems: pitfalls in measuring basis risk for crop index insurance*. With David Lobell, Apratim Dey and Andrew Hobbs. [arXiv working paper](https://arxiv.org/abs/2209.14611)
@@ -29,6 +25,7 @@ Google  Scholar: [link](https://scholar.google.com/citations?user=AiA41oQAAAAJ&h
 ### 2024
 
 - *How well does the implementation of corporate zero-deforestation commitments in Indonesia align with aims to halt deforestation and include smallholders?* With Adelina Chandra et al. Environmental Research Letters, 19:4 [www](https://doi.org/10.1088/1748-9326/ad33d1)
+- *Researchers' Degrees-of-Flexibility and the Credibility of Difference-in-Differences Estimates: Evidence From the Pandemic Policy Evaluations.* With Joakim Weil. Accepted at Economic Enquiry, [NBER working paper](https://www.nber.org/papers/w29550)
 
 ### 2023
 
@@ -56,7 +53,7 @@ Google  Scholar: [link](https://scholar.google.com/citations?user=AiA41oQAAAAJ&h
  - Stigler, M. Commodity Price properties, in Safeguarding Food Security in Volatile Global Markets, FAO, [pdf](http://www.fao.org/docrep/013/i2107e/i2107e02.pdf)
  - Prakash, A. and Stigler, M. The Economics of information and behaviour in explaining excess volatility, in Safeguarding Food Security in Volatile Global Markets, FAO, [pdf](http://www.fao.org/docrep/013/i2107e/i2107e14.pdf)
  - Stigler, M. and Prakash, A. The Role of Stocks in Generating Volatility and Crisis, in Safeguarding Food Security in Volatile Global Markets, FAO, [pdf](http://www.fao.org/docrep/013/i2107e/i2107e16.pdf)
- - Stigler, M. Tortora P. Food crisis : did prices rise faster than they fell ?, Research Topics in Agricultural and Applied Economics, Bentham Science Publishers, [www](http://www.benthamscience.com/ebooks/9781608052431/index.htm)
+ - Stigler, M. Tortora P. Food crisis : did prices rise faster than they fell ?, Research Topics in Agricultural and Applied Economics, Bentham Science Publishers, [www](https://benthamscience.com/public/chapter/2784)
 
 ### 2010
  - Gairing, M., Mann, S., and Stigler, M. The end of Milk Quotas: Developments on the Swiss Milk Market, ART report series, no 732, [www](http://www.agroscope.admin.ch/publikationen/einzelpublikation/index.html?lang=de&aid=22407&pid=23029&vmode=fancy)
