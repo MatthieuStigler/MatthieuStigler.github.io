@@ -15,8 +15,8 @@ Google  Scholar: [link](https://scholar.google.com/citations?user=AiA41oQAAAAJ&h
 - *Smallholder zero-deforestation agreements reduce forest loss on the Colombian Amazon frontier.*  With Paul Furumo and Eric Lambin.
 
 ##### Agricultural Economics: crop insurance, supply response
-- *On the benefits of index insurance in US agriculture: a large-scale analysis using satellite data*. With David Lobell. [arXiv working paper](https://arxiv.org/abs/2011.12544)
 - *With big data come big problems: pitfalls in measuring basis risk for crop index insurance*. With David Lobell, Apratim Dey and Andrew Hobbs. [arXiv working paper](https://arxiv.org/abs/2209.14611)
+- *On the benefits of index insurance in US agriculture: a large-scale analysis using satellite data*. With David Lobell. [arXiv working paper](https://arxiv.org/abs/2011.12544)
 - *Supply response at the field-level: disentangling area and yield effects.* [working paper](https://matthieustigler.github.io/docs/yield_response_satellite_Stigler.pdf)
 - *Global Yield Distributions since 1960*. With Nathan Hendricks. [working paper](https://ageconsearch.umn.edu/record/304570/files/19153.pdf)
 
