@@ -2,7 +2,7 @@
 layout: default
 title: Research
 ---
-Google  Scholar: [link](https://scholar.google.com/citations?user=AiA41oQAAAAJ&hl=en). ORCID: [0000-0002-6802-4290](http://orcid.org/0000-0002-6802-4290)
+Google  Scholar: [link](https://scholar.google.com/citations?user=AiA41oQAAAAJ&hl=en). ORCID: [0000-0002-6802-4290](http://orcid.org/0000-0002-6802-4290). IDEAS/REPEC [link](https://ideas.repec.org/f/pst1036.html)
 
 ## CURRENT WORKING PAPERS
 
@@ -26,7 +26,7 @@ Google  Scholar: [link](https://scholar.google.com/citations?user=AiA41oQAAAAJ&h
 ### 2024
 
 - *How well does the implementation of corporate zero-deforestation commitments in Indonesia align with aims to halt deforestation and include smallholders?* With Adelina Chandra et al. Environmental Research Letters, 19:4 [www](https://doi.org/10.1088/1748-9326/ad33d1)
-- *Researchers' Degrees-of-Flexibility and the Credibility of Difference-in-Differences Estimates: Evidence From the Pandemic Policy Evaluations.* With Joakim Weil. Accepted at Economic Enquiry, [NBER working paper](https://www.nber.org/papers/w29550)
+- *Researchers' Degrees-of-Flexibility and the Credibility of Difference-in-Differences Estimates: Evidence From the Pandemic Policy Evaluations.* With Joakim Weil. Economic inquiry, [www](https://doi.org/10.1111/ecin.13273)
 
 ### 2023
 
