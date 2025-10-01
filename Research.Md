@@ -13,7 +13,7 @@ Google  Scholar: [link](https://scholar.google.com/citations?user=AiA41oQAAAAJ&h
 - *Conservation policies are failing to reduce degradation in the Brazilian Amazon*. With Federico Cammelli, Holly K Gibbs, Florian Gollnow, Samuel Levy, and Rachael D. Garrett. R&R
 - *Cattle Supply Chains and Deforestation in Brazil: a structural model*. With Veronica Salazar. [link](https://raw.githubusercontent.com/MatthieuStigler/MatthieuStigler.github.io/master/docs/Stigler_Salazar_2025_CattleSupplyChains_Deforestation_Brazil.pdf)
 - *Mechanisms of reduced supply chain policy effectiveness and leakage in the Brazilian cattle sector.*  With Samuel Levy, Erasmus zu Ermgassen, Vivian Ribeiro, and Rachael D. Garrett. 
-- *Smallholder zero-deforestation agreements reduce forest loss on the Colombian Amazon frontier.*  With Paul Furumo and Eric Lambin.
+- *Smallholder zero-deforestation agreements reduce forest loss on the Colombian Amazon frontier.*  With Paul Furumo.
 
 ##### Agricultural Economics: crop insurance, supply response
 - *With big data come big problems: pitfalls in measuring basis risk for crop index insurance*. With David Lobell, Apratim Dey and Andrew Hobbs. [arXiv working paper](https://arxiv.org/abs/2209.14611)
