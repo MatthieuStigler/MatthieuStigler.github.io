@@ -25,7 +25,7 @@ Google  Scholar: [link](https://scholar.google.com/citations?user=AiA41oQAAAAJ&h
 ## PUBLISHED PAPERS
 
 ### 2025
-- *Causal Inference with Predicted Outcomes: Correcting prediction error bias in satellite-based impact evaluation* With Pelletier et al. Journal of Developement Economics, Forthcoming
+- *Causal Inference with Predicted Outcomes: Correcting prediction error bias in satellite-based impact evaluation* With Pelletier et al. Journal of Developement Economics, 179, [www](https://doi.org/10.1111/ecin.13273)
 
 ### 2024
 
