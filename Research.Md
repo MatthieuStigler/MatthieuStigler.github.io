@@ -24,6 +24,10 @@ Google  Scholar: [link](https://scholar.google.com/citations?user=AiA41oQAAAAJ&h
 
 ## PUBLISHED PAPERS
 
+### 2026
+- *Deforestation-focused policies do not reduce degradation in the Brazilian Amazon* With Cammelli et al. PNAS, forthcoming
+- *Harnessing adaptation has increased French apple yields but heat stress mitigation will become essential by 2050* With Giguère et al, Nature Food, [www](https://www.nature.com/articles/s43016-026-01333-0)
+
 ### 2025
 - *Causal Inference with Predicted Outcomes: Correcting prediction error bias in satellite-based impact evaluation* With Pelletier et al. Journal of Developement Economics, 179, [www](https://doi.org/10.1016/j.jdeveco.2025.103655)
 
