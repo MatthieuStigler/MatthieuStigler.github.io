@@ -23,38 +23,38 @@ Google  Scholar: [link](https://scholar.google.com/citations?user=AiA41oQAAAAJ&h
 ## PUBLISHED PAPERS
 
 ### 2026
-- *Are supply-chain deforestation initiatives effective? The effects of zero-deforestation commitments in Indonesia’s palm oil sector*. With Grabs et al. PNAS, forthcoming
-- *Deforestation-focused policies do not reduce degradation in the Brazilian Amazon* With Cammelli et al, PNAS, [www](https://www.pnas.org/doi/10.1073/pnas.2507793123)
-- *Harnessing adaptation has increased French apple yields but heat stress mitigation will become essential by 2050* With Giguère et al, Nature Food, [www](https://www.nature.com/articles/s43016-026-01333-0)
+- *Are supply-chain deforestation initiatives effective? The effects of zero-deforestation commitments in Indonesia’s palm oil sector*. With Grabs et al. **PNAS**, forthcoming
+- *Deforestation-focused policies do not reduce degradation in the Brazilian Amazon* With Cammelli et al, **PNAS**, [www](https://www.pnas.org/doi/10.1073/pnas.2507793123)
+- *Harnessing adaptation has increased French apple yields but heat stress mitigation will become essential by 2050* With Giguère et al, **Nature Food**, [www](https://www.nature.com/articles/s43016-026-01333-0)
 
 ### 2025
-- *Causal Inference with Predicted Outcomes: Correcting prediction error bias in satellite-based impact evaluation* With Pelletier et al. Journal of Developement Economics, 179, [www](https://doi.org/10.1016/j.jdeveco.2025.103655)
+- *Causal Inference with Predicted Outcomes: Correcting prediction error bias in satellite-based impact evaluation* With Pelletier et al. **Journal of Developement Economics**, 179, [www](https://doi.org/10.1016/j.jdeveco.2025.103655)
 
 ### 2024
 
-- *How well does the implementation of corporate zero-deforestation commitments in Indonesia align with aims to halt deforestation and include smallholders?* With Adelina Chandra et al. Environmental Research Letters, 19:4 [www](https://doi.org/10.1088/1748-9326/ad33d1)
-- *Researchers' Degrees-of-Flexibility and the Credibility of Difference-in-Differences Estimates: Evidence From the Pandemic Policy Evaluations.* With Joakim Weil. Economic inquiry, [www](https://doi.org/10.1111/ecin.13273)
+- *How well does the implementation of corporate zero-deforestation commitments in Indonesia align with aims to halt deforestation and include smallholders?* With Adelina Chandra et al. **Environmental Research Letters**, 19:4 [www](https://doi.org/10.1088/1748-9326/ad33d1)
+- *Researchers' Degrees-of-Flexibility and the Credibility of Difference-in-Differences Estimates: Evidence From the Pandemic Policy Evaluations.* With Joakim Weil. **Economic inquiry**, [www](https://doi.org/10.1111/ecin.13273)
 
 ### 2023
 
-- *Optimal index insurance and basis risk decomposition: an application to Kenya*. With David Lobell. American Journal of Agricultural Economics [www](https://onlinelibrary.wiley.com/doi/10.1111/ajae.12375)
+- *Optimal index insurance and basis risk decomposition: an application to Kenya*. With David Lobell. **American Journal of Agricultural Economics** [www](https://onlinelibrary.wiley.com/doi/10.1111/ajae.12375)
 
 ### 2022
 
-- *Using Satellite Imagery and Machine Learning to Estimate the Livelihood Impact of Electricity Access.* With Nathan Ratledge et al., Nature, Vol. 611:7936, p. 491-495 [www](https://doi.org/10.1038/s41586-022-05322-8)
-- *Exposures and Behavioral Responses to Wildfire Smoke*. With Marshall Burke et al. Nature Human Behaviour, Vol . 6, p. 1351–1361 [www](https://www.nature.com/articles/s41562-022-01396-6)
-- *The effects of agricultural policy on supply and productivity: Evidence from differential changes in distortions*. With N. Hendricks, A. Smith, Nelson and B. Villoria. Agricultural economics, 54: 44–61 [www](https://doi.org/10.1111/agec.12741)
+- *Using Satellite Imagery and Machine Learning to Estimate the Livelihood Impact of Electricity Access.* With Nathan Ratledge et al., **Nature**, Vol. 611:7936, p. 491-495 [www](https://doi.org/10.1038/s41586-022-05322-8)
+- *Exposures and Behavioral Responses to Wildfire Smoke*. With Marshall Burke et al. **Nature Human Behaviour**, Vol . 6, p. 1351–1361 [www](https://www.nature.com/articles/s41562-022-01396-6)
+- *The effects of agricultural policy on supply and productivity: Evidence from differential changes in distortions*. With N. Hendricks, A. Smith, Nelson and B. Villoria. **Agricultural economics**, 54: 44–61 [www](https://doi.org/10.1111/agec.12741)
 
 
 ### 2020
 
-- *Social Distancing Responses to COVID-19 Emergency Declarations Strongly Differentiated by Income*. With J. Weill, O Deschenes and M. Springborn. Proceedings of the National Academy of Sciences, 117(33), p. 19658-19660 [www](https://doi.org/10.1073/pnas.2009412117). Media coverage: [Wired](https://www.wired.com/story/your-income-predicts-how-well-you-can-socially-distance/), [New York Post](https://nypost.com/2020/07/31/social-distancing-substantially-varies-by-income-study-finds/), [Los Angeles Times](https://www.latimes.com/california/story/2020-08-23/another-coronavirus-inequity-those-who-can-afford-to-stay-in-place-and-those-who-must-move)
- - Stigler, M. tsDyn: Threshold cointegration: overview and implementation in R, *Handbook of Statistics, Volume 42*, p. 229-264, Elsevier
+- *Social Distancing Responses to COVID-19 Emergency Declarations Strongly Differentiated by Income*. With J. Weill, O Deschenes and M. Springborn. **PNAS**, 117(33), p. 19658-19660 [www](https://doi.org/10.1073/pnas.2009412117). Media coverage: [Wired](https://www.wired.com/story/your-income-predicts-how-well-you-can-socially-distance/), [New York Post](https://nypost.com/2020/07/31/social-distancing-substantially-varies-by-income-study-finds/), [Los Angeles Times](https://www.latimes.com/california/story/2020-08-23/another-coronavirus-inequity-those-who-can-afford-to-stay-in-place-and-those-who-must-move)
+ - Stigler, M. tsDyn: *Threshold cointegration: overview and implementation in R*, **Handbook of Statistics**, Volume 42, p. 229-264, Elsevier
 [www](https://www.sciencedirect.com/science/article/pii/S0169716119300355?via%3Dihub) 
 
 ### 2012
 
- - Stigler, M. et al. Book review : Methods to analyse Agricultural Commodity Price Volatility, *European Review of Agricultural Economics*, 39:4, [www](http://erae.oxfordjournals.org/content/39/4/732.extract)
+ - Stigler, M. et al. Book review : *Methods to analyse Agricultural Commodity Price Volatility*, **European Review of Agricultural Economics**, 39:4, [www](http://erae.oxfordjournals.org/content/39/4/732.extract)
  - Steffen, Stigler, M., Contract Management after milk quotas, in Yearbook of Socioeconomics in Agriculture, SSA, [pdf](https://ideas.repec.org/a/cha/ysa001/v5y2012i1p177-200.html)
 
 ### 2011
