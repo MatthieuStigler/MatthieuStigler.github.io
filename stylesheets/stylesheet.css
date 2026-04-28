@@ -67,16 +67,16 @@ header {
   padding-top: 40px;
   padding-bottom: 40px;
   font-family: 'Open Sans', Helvetica, Arial, serif;
-  background: #2e7bcf url(../images/header-bg_grey.jpg) 0 0 repeat-x;
-  border-bottom: solid 1px #275da1;
+  background: #474747 url(../images/header-bg_grey.jpg) 0 0 repeat-x;
+  border-bottom: solid 1px #333333;
 }
 
 headerold {
   padding-top: 40px;
   padding-bottom: 40px;
   font-family: 'Open Sans', 'Helvetica Neue', Helvetica, Arial, serif;
-  background: #2e7bcf url(../images/header-bg.jpg) 0 0 repeat-x;
-  border-bottom: solid 1px #275da1;
+  background: #474747 url(../images/header-bg.jpg) 0 0 repeat-x;
+  border-bottom: solid 1px #333333;
 }
 
 header h1 {
@@ -206,8 +206,8 @@ code, pre {
 }
 
 code {
-  background-color: #f2f8fc;
-  border: solid 1px #dbe7f3;
+  background-color: #eeeeee;
+  border: solid 1px #cccccc;
   padding: 0 3px;
 }
 
