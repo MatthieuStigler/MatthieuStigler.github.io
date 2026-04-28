@@ -9,7 +9,6 @@ Google  Scholar: [link](https://scholar.google.com/citations?user=AiA41oQAAAAJ&h
 
 ##### Environmental economics: Deforestation, sustainable governance
 
-- *Are supply-chain deforestation initiatives effective? The effects of zero-deforestation commitments in Indonesia’s palm oil sector*. With Rachael Garrett, Robert Heilmayr, Kim Carlson, Jason Benedict, and Janina Grabs. R&R
 - *Cattle Supply Chains and Deforestation in Brazil: a structural model*. With Veronica Salazar. [link](https://raw.githubusercontent.com/MatthieuStigler/MatthieuStigler.github.io/master/docs/Stigler_Salazar_2025_CattleSupplyChains_Deforestation_Brazil.pdf)
 - *Mechanisms of reduced supply chain policy effectiveness and leakage in the Brazilian cattle sector.*  With Samuel Levy, Erasmus zu Ermgassen, Vivian Ribeiro, and Rachael D. Garrett. 
 - *Smallholder zero-deforestation agreements reduce forest loss on the Colombian Amazon frontier.*  With Paul Furumo.
@@ -24,7 +23,8 @@ Google  Scholar: [link](https://scholar.google.com/citations?user=AiA41oQAAAAJ&h
 ## PUBLISHED PAPERS
 
 ### 2026
-- *Deforestation-focused policies do not reduce degradation in the Brazilian Amazon* With Cammelli et al. PNAS, forthcoming
+- *Are supply-chain deforestation initiatives effective? The effects of zero-deforestation commitments in Indonesia’s palm oil sector*. With Grabs et al. PNAS, forthcoming
+- *Deforestation-focused policies do not reduce degradation in the Brazilian Amazon* With Cammelli et al, PNAS, [www](https://www.pnas.org/doi/10.1073/pnas.2507793123)
 - *Harnessing adaptation has increased French apple yields but heat stress mitigation will become essential by 2050* With Giguère et al, Nature Food, [www](https://www.nature.com/articles/s43016-026-01333-0)
 
 ### 2025
