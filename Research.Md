@@ -23,7 +23,7 @@ Google  Scholar: [link](https://scholar.google.com/citations?user=AiA41oQAAAAJ&h
 ## PUBLISHED PAPERS
 
 ### 2026
-- *Are supply-chain deforestation initiatives effective? The effects of zero-deforestation commitments in Indonesia’s palm oil sector*. With Grabs et al. **PNAS**, forthcoming
+- *Are supply-chain deforestation initiatives effective? The effects of zero-deforestation commitments in Indonesia’s palm oil sector*. With Grabs et al. **PNAS**, [www](https://doi.org/10.1073/pnas.2511503123)
 - *Deforestation-focused policies do not reduce degradation in the Brazilian Amazon* With Cammelli et al, **PNAS**, [www](https://www.pnas.org/doi/10.1073/pnas.2507793123)
 - *Harnessing adaptation has increased French apple yields but heat stress mitigation will become essential by 2050* With Giguère et al, **Nature Food**, [www](https://www.nature.com/articles/s43016-026-01333-0)
 
